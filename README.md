@@ -1,1 +1,1 @@
-# Clash-of-Quest-Source-2
+# Source Code of Clash of Quest
