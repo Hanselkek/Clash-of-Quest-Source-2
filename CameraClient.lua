@@ -4,7 +4,7 @@ local RunService = game:GetService("RunService")
 local UserInputService = game:GetService("UserInputService")
 local Players = game:GetService("Players")
 local StarterGui = game:GetService("StarterGui")
-
+local TweenService = game:GetService("TweenService")
 
 local LocalPlayer = Players.LocalPlayer -- Not a sevice but who cares!
 local Camera = workspace.Camera -- Not a service but who cares
